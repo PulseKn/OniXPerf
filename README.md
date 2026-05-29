@@ -1,6 +1,11 @@
 # OniXPerf
 An program that runs silently in the background reducing cpu and ram excesive load and debloats pc and disables apps with high impact at startup!
 Also it sets timer resolution to 0.5ms
+This app also reduces latency !
+Tutorial is below.... |
+                    \   /
+                     \ /
+                      
 
 #HOW TO USE!!!
 1. Extract it to an folder 
