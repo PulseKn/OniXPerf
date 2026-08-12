@@ -24,3 +24,6 @@ None yet all bugs were fixed :))
 #For Reverse engineers or Malware Analysts i provided ya the pdb u can see on the repo
 For ppl that use Virus total and say its malware: 
 Its not it uses wmi and other stuff that gets flagged on virus total and i am js not trying to hide anything.
+
+
+IF u got any ideas to add or any issues or whatever if u are bored join ts https://discord.gg/ZcdAvYGn
