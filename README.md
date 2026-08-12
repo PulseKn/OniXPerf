@@ -3,6 +3,9 @@ An program that runs silently in the background reducing cpu and ram excesive lo
 It works for majority of games Mainly Roblox but it works on others quite well
 It Sets logs in Appdata roaming in Onixperf folder
 
+#Dependencies:
+You need to have installed https://aka.ms/vs/16/release/vc_redist.x64.exe
+
 best version to use https://github.com/PulseKn/OniXPerf/releases/tag/v1.5
 
 the stable version is the v1.1 if you wanna use it
