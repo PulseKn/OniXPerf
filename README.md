@@ -18,7 +18,8 @@ the stable version is the v1.1 if you wanna use it
 4. Select Standard/Advanced debloat (if v1.5 or higher)
 5. And after all those you shouls be done :))
 
-
+#Known problem& its fix : 
+Random maxing Cpu? Js go to onixperf.exe and endtask in task maanger (fixing  it soon)
 
 #For Reverse engineers or Malware Analysts i provided ya the pdb u can see on the repo
 For ppl that use Virus total and say its malware: 
