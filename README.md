@@ -6,7 +6,7 @@ It Sets logs in Appdata roaming in Onixperf folder
 #Dependencies:
 You need to have installed https://aka.ms/vs/16/release/vc_redist.x64.exe
 
-best version to use https://github.com/PulseKn/OniXPerf/releases/tag/v1.5
+best version to use https://github.com/PulseKn/OniXPerf/releases/tag/v1.5          !!! VERY IMPORTANT OTHERWISE IT WILL GIVE ERROR
 
 the stable version is the v1.1 if you wanna use it
                       
