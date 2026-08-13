@@ -27,3 +27,4 @@ Its not it uses wmi and other stuff that gets flagged on virus total and i am js
 
 
 IF u got any ideas to add or any issues or whatever if u are bored join ts https://discord.gg/ZcdAvYGn
+It uses wmi and that might flag as virus 
