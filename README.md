@@ -2,6 +2,7 @@
 An program that runs silently in the background reducing cpu and ram excesive load and debloats pc, it also reduces latency and sets timer resolution to 0.5ms
 It works for majority of games Mainly Roblox but it works on others quite well
 It Sets logs in Appdata roaming in Onixperf folder
+Basically like an watchdog
 
 #Dependencies:
 You need to have installed https://aka.ms/vs/16/release/vc_redist.x64.exe
